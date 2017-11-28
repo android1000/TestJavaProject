@@ -2,7 +2,7 @@ package NewPackage;
 
 public class NewClassInNewProject {
     public static void main(String[] args) {
-        DoPrintlnMoreTimes("Fuck yea", 4);
+        DoPrintlnMoreTimes("Fuck yea", 5);
     }
 
     public static void DoPrintlnMoreTimes(String s, int count){
